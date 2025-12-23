@@ -200,7 +200,7 @@ Copy and paste: mate-session
 
 ------------------------------------
 
-Regards Mattias Vinberg NixOS - MATE - SweDen - WSL - X410 - 2025 
+Regards Mattias Vinberg - NixOS - MATE - SweDen - WSL - X410 - Microsoft - Github - Youtube - 2025 
 
           ▗▄▄▄       ▗▄▄▄▄    ▄▄▄▖
           ▜███▙       ▜███▙  ▟███▛
@@ -224,7 +224,3 @@ Regards Mattias Vinberg NixOS - MATE - SweDen - WSL - X410 - 2025
          ▝▀▀▀    ▀▀▀▀▘       ▀▀▀▘
 
 ------------------------------------
-
-
-
-
