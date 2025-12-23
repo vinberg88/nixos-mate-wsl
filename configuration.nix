@@ -16,7 +16,7 @@
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
 
   # Öka download buffer (default är för låg i WSL)
-    download-buffer-size = 268435456; # 256 MB
+    nix.settings.download-buffer-size = 468435456; # 558 MB
 
   ############################################################
   # User
