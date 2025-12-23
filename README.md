@@ -1,5 +1,24 @@
 # Mate - NIXOS - WSL - How to install Mate via Nixos - EASY!
 
+This repository provides a setup for running MATE Desktop on NixOS inside Windows Subsystem for Linux (WSL).
+Its easy to install just follow instructions. NixOS + flakes.
+
+## What is MATE Desktop?
+
+MATE Desktop is a lightweight and fast desktop environment that continues the GNOME 2 legacy.
+It offers a classic, intuitive, and feature-rich interface that is easy to use for both beginners
+and advanced users. With a focus on stability, compatibility, and long-term support, MATE Desktop is
+a reliable choice for various use cases—from personal setups to professional environments.
+
+Key characteristics of MATE Desktop:
+
+- **Lightweight:** Consumes fewer system resources compared to other desktop environments, making it ideal for older or resource-constrained machines.
+- **Customizable:** Offers a variety of configuration options, panel layouts, and additional applets.
+- **Familiarity:** Designed as a continuation of GNOME 2, MATE Desktop provides a familiar experience for those who appreciated GNOME 2's functionality and design.
+- **Support for Modern Systems:** Despite its lightweight nature, it includes support for modern hardware and technologies.
+
+Learn more about MATE Desktop at [mate-desktop.org](https://mate-desktop.org).
+
 ![Main Banner](https://github.com/user-attachments/assets/b61b00e3-1508-47ed-b87b-3c8c113314ac)
 
 
