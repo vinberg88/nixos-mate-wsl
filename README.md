@@ -1,4 +1,4 @@
-# NixOS Mate WSL
+# NixOS via Mate desktop - WSL - How to install Mate via Nixos - EASY!
 
 ![Main Banner](https://github.com/user-attachments/assets/b61b00e3-1508-47ed-b87b-3c8c113314ac)
 
