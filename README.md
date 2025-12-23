@@ -40,21 +40,13 @@ To learn more, visit [NixOS Official Website](https://nixos.org/).
 
 ---
 
-## Features ✨
-
-- ![Feature Icon](https://via.placeholder.com/40.png?text=✔️) **Lightweight and Efficient**: Enjoy the robustness of NixOS within Windows.
-- ![Feature Icon](https://via.placeholder.com/40.png?text=📦) **Customizable Packages**: Tailor your environment to your needs.
-- ![Feature Icon](https://via.placeholder.com/40.png?text=⚡) **Fast and Reliable**: Accelerated setup for development activities.
-
----
-
 ## Prerequisites 📋
 
 Before you begin, ensure you have the following:
 
-- ![Prerequisite Icon](https://via.placeholder.com/20.png?text=💻) A system with Windows 10/11 and WSL enabled.
-- ![Prerequisite Icon](https://via.placeholder.com/20.png?text=🌐) Internet connectivity for downloading packages.
-- ![Prerequisite Icon](https://via.placeholder.com/20.png?text=🔧) Basic command-line proficiency.
+- A system with Windows 10/11 and WSL enabled.
+- Internet connectivity for downloading packages.
+- Basic command-line proficiency. Thats ALL.
 
 ---
 
@@ -62,12 +54,12 @@ Before you begin, ensure you have the following:
 
 Follow these steps to get started:
 
-1. ✅ **Enable and Configure WSL**:
+1. ✅ **INSTALL NIXOS**:
    ```bash
-   wsl --install
+   Download NIXOS from this page - https://github.com/nix-community/NixOS-WSL
    ```
 
-2. ✅ **Clone the Repository**:
+2. ✅ **PRESS ON nixos.wsl and install **:
    ```bash
    git clone https://github.com/vinberg88/nixos-mate-wsl.git
    ```
