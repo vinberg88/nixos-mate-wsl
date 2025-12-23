@@ -1,57 +1,102 @@
-# NixOS Mate WSL
+# Mate - NIXOS - WSL - How to install Mate via Nixos - EASY!
 
-## Main Banner
-Your customizable Linux environment in Windows Subsystem for Linux (WSL) - powered by NixOS and Mate Desktop.
+This repository provides a setup for running MATE Desktop on NixOS inside Windows Subsystem for Linux (WSL).
+Its easy to install just follow instructions. NixOS + flakes.
 
----
+## What is MATE Desktop?
 
-## Features
-- Lightweight and customizable Mate Desktop Environment.
-- Leverages the power of Nix, a reproducible and declarative package manager.
-- Optimized for running on WSL 2, ensuring superior performance.
-- Pre-configured for seamless user experience.
-- Supports various productivity and development tools.
+MATE Desktop is a lightweight and fast desktop environment that continues the GNOME 2 legacy.
+It offers a classic, intuitive, and feature-rich interface that is easy to use for both beginners
+and advanced users. With a focus on stability, compatibility, and long-term support, MATE Desktop is
+a reliable choice for various use cases—from personal setups to professional environments.
 
----
+Key characteristics of MATE Desktop:
 
-## Prerequisites
-1. **Windows Subsystem for Linux (WSL 2)**: Ensure you have WSL 2 installed and enabled on your Windows 10 or 11 setup.
-   - [WSL Setup Documentation](https://docs.microsoft.com/en-us/windows/wsl/install)
-2. **Enable Virtual Machine Platform**: Required for WSL 2 performance.
-   - Follow the guide in the above WSL documentation to enable this feature.
-3. **Disk Space**: At least 10GB of free space to accommodate the NixOS environment and additional software.
-4. **Administrator Privileges**: Needed for certain installation steps.
+- **Lightweight:** Consumes fewer system resources compared to other desktop environments, making it ideal for older or resource-constrained machines.
+- **Customizable:** Offers a variety of configuration options, panel layouts, and additional applets.
+- **Familiarity:** Designed as a continuation of GNOME 2, MATE Desktop provides a familiar experience for those who appreciated GNOME 2's functionality and design.
+- **Support for Modern Systems:** Despite its lightweight nature, it includes support for modern hardware and technologies.
 
----
+Learn more about MATE Desktop at [mate-desktop.org](https://mate-desktop.org).
 
-## Installation and Setup
-1. **Install or Update WSL**:
-   - Open PowerShell as Administrator and execute:
-     ```powershell
-     wsl --install
-     ```
-   - Update to WSL 2 if required:
-     ```powershell
-     wsl --set-default-version 2
-     ```
-2. **Download the Repository**:
-   - Clone this repository:
-     ```bash
-     git clone https://github.com/vinberg88/nixos-mate-wsl.git
-     ```
+## What is NixOS?
 
-3. **Set Up NixOS**:
-   - Navigate into the cloned repository:
-     ```bash
-     cd nixos-mate-wsl
-     ```
-   - Run the environment setup script:
-     ```bash
-     ./setup.sh
-     ```
-4. **Access the Mate Desktop**:
-   - Launch Mate via an X server (e.g., **VcXsrv** or **X410**) on your Windows machine.
+NixOS is a Linux distribution built on the Nix package manager, designed to offer reliable
+and reproducible system configurations. Its declarative approach lets you describe your
+system configuration in a single file, ensuring consistent environments across different machines.
+
+### Key Features:
+- **Declarative Configuration:** Configure your entire system—ranging from services, networking, and user management to packages—using a single plain text file (`configuration.nix`).
+- **Atomic Upgrades and Rollbacks:** As changes are transactional, you can revert to a prior state seamlessly.
+- **Isolation and Reproducibility:** Packages are built with isolated dependencies, ensuring consistent builds.
+- **Extensive Customization:** Modify or create packages without interfering with your system state.
+
+NixOS is ideal for those looking for a highly customizable, reliable, and reproducible system, making it particularly popular among developers, DevOps practitioners, and system administrators.
+
+To learn more, visit [NixOS Official Website](https://nixos.org/).
+
+![Main Banner](https://github.com/user-attachments/assets/b61b00e3-1508-47ed-b87b-3c8c113314ac)
+
 
 ---
 
-Start enjoying the power and simplicity of NixOS Mate on WSL! For troubleshooting and additional help, refer to the [wiki](https://github.com/vinberg88/nixos-mate-wsl/wiki).
+## Features ✨
+
+- ![Feature Icon](https://via.placeholder.com/40.png?text=✔️) **Lightweight and Efficient**: Enjoy the robustness of NixOS within Windows.
+- ![Feature Icon](https://via.placeholder.com/40.png?text=📦) **Customizable Packages**: Tailor your environment to your needs.
+- ![Feature Icon](https://via.placeholder.com/40.png?text=⚡) **Fast and Reliable**: Accelerated setup for development activities.
+
+---
+
+## Prerequisites 📋
+
+Before you begin, ensure you have the following:
+
+- ![Prerequisite Icon](https://via.placeholder.com/20.png?text=💻) A system with Windows 10/11 and WSL enabled.
+- ![Prerequisite Icon](https://via.placeholder.com/20.png?text=🌐) Internet connectivity for downloading packages.
+- ![Prerequisite Icon](https://via.placeholder.com/20.png?text=🔧) Basic command-line proficiency.
+
+---
+
+## Installation and Setup 🛠️
+
+Follow these steps to get started:
+
+1. ✅ **Enable and Configure WSL**:
+   ```bash
+   wsl --install
+   ```
+
+2. ✅ **Clone the Repository**:
+   ```bash
+   git clone https://github.com/vinberg88/nixos-mate-wsl.git
+   ```
+
+3. ⚠️ **Switch to the Repository Directory**:
+   ```bash
+   cd nixos-mate-wsl
+   ```
+
+4. ✅ **Run the Installation Script**:
+   ```bash
+   ./install.sh
+   ```
+
+5. ✅ **Verify the Installation and Launch**:
+   ```bash
+   wsl --list --verbose
+   ```
+
+---
+
+## Credits 👏
+
+Developed and maintained by [vinberg88](https://github.com/vinberg88).
+
+---
+
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+![Footer Banner](https://via.placeholder.com/728x20.png?text=Thank+You+for+Using+NixOS+Mate+on+WSL)
