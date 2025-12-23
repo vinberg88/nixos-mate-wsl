@@ -54,41 +54,12 @@ Before you begin, ensure you have the following:
 
 Follow these steps to get started:
 
-1. ✅ **INSTALL NIXOS**:
-   ```bash
-   Download NIXOS from this page - https://github.com/nix-community/NixOS-WSL
-   ```
+Download NIXOS from this page - https://github.com/nix-community/NixOS-WSL
 
-2. ✅ **PRESS ON nixos.wsl and install **:
-   ```bash
-   git clone https://github.com/vinberg88/nixos-mate-wsl.git
-   ```
-
-3. ⚠️ **Switch to the Repository Directory**:
-   ```bash
-   cd nixos-mate-wsl
-   ```
-
-4. ✅ **Run the Installation Script**:
-   ```bash
-   ./install.sh
-   ```
-
-5. ✅ **Verify the Installation and Launch**:
-   ```bash
-   wsl --list --verbose
-   ```
-
----
+NOW GO HERE: 
 
 ## Credits 👏
 
 Developed and maintained by [vinberg88](https://github.com/vinberg88).
 
 ---
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-![Footer Banner](https://via.placeholder.com/728x20.png?text=Thank+You+for+Using+NixOS+Mate+on+WSL)
