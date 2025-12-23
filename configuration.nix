@@ -92,7 +92,7 @@
     mate.eom
 
     # Window manager & compositor
-    marco
+    pkgs.mate.marco
     picom
 
     # Network
