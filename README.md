@@ -64,8 +64,6 @@ Developed and maintained by [vinberg88](https://github.com/vinberg88).
 
 ---
 
-NixOS and MATE - How To install MATE via NixOS and Windows 11 - WSL - Linux - 2025
-
 How to install MATE via NIXOS - WSL - MOVIE
 
 Comming Zone...
