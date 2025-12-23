@@ -1,5 +1,7 @@
 NixOS and MATE - How To install MATE via NixOS and Windows 11 - WSL - Linux - 2025
 
+<img width="1920" height="1080" alt="NIXOS-MATE" src="https://github.com/user-attachments/assets/7fcae83e-23a1-42a4-8102-c26068b17548" />
+
 How to install MATE via NIXOS - WSL - TEXT
 https://github.com/vinberg88/nixos-mate-wsl/blob/main/NIXOS-MATE.txt
 
@@ -224,3 +226,4 @@ Regards Mattias Vinberg NixOS - MATE - SweDen - WSL - X410 - 2025
          ▝▀▀▀    ▀▀▀▀▘       ▀▀▀▘
 
 ------------------------------------
+
