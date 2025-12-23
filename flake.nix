@@ -1,5 +1,5 @@
 {
-  description = "NixOS WSL + full MATE desktop (X410)";
+  description = "NixOS WSL 25.05 + full MATE desktop (X410)";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
