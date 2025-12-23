@@ -118,7 +118,12 @@
 
     # Utils
     xdg-utils
-  ];
+    pkgs.libreoffice-fresh
+    pkgs.gimp3-with-plugins
+    pkgs.chromium
+    pkgs.blanket
+    pkgs.gnome-terminal
+    ];
 
   networking.networkmanager.enable = true;
 
