@@ -71,7 +71,7 @@ simplify system administration tasks and reduce
 maintenance overhead. If you want to try Linux
 use other sort =)
 
-About GNOME - https://www.gnome.org - LINUX - WSL
+About MATE - https://mate-desktop.org - LINUX - WSL
 
 MATE Desktop is a lightweight and fast desktop environment
 that continues the GNOME 2 legacy. It offers a classic,
@@ -91,7 +91,7 @@ https://vinberg88.github.io/
 
 --------------------------------------
 
-First thing install some programs for NIXOS and GNOME desktop
+First thing install some programs for NIXOS and MATE desktop
 
 nix-env -iA nixos.update-systemd-resolved
 nix-env -iA nixos.git
@@ -224,4 +224,3 @@ Regards Mattias Vinberg NixOS - MATE - SweDen - WSL - X410 - 2025
          ▝▀▀▀    ▀▀▀▀▘       ▀▀▀▘
 
 ------------------------------------
-
