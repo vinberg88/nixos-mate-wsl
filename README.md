@@ -25,7 +25,15 @@ NixOS is a Linux distribution built on the Nix package manager, designed to offe
 and reproducible system configurations. Its declarative approach lets you describe your
 system configuration in a single file, ensuring consistent environments across different machines.
 
-Learn more about NIXOS at [nixos.org](https://nixos.org).
+### Key Features:
+- **Declarative Configuration:** Configure your entire system—ranging from services, networking, and user management to packages—using a single plain text file (`configuration.nix`).
+- **Atomic Upgrades and Rollbacks:** As changes are transactional, you can revert to a prior state seamlessly.
+- **Isolation and Reproducibility:** Packages are built with isolated dependencies, ensuring consistent builds.
+- **Extensive Customization:** Modify or create packages without interfering with your system state.
+
+NixOS is ideal for those looking for a highly customizable, reliable, and reproducible system, making it particularly popular among developers, DevOps practitioners, and system administrators.
+
+To learn more, visit [NixOS Official Website](https://nixos.org/).
 
 ![Main Banner](https://github.com/user-attachments/assets/b61b00e3-1508-47ed-b87b-3c8c113314ac)
 
