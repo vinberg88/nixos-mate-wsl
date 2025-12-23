@@ -67,9 +67,11 @@ Developed and maintained by [vinberg88](https://github.com/vinberg88).
 NixOS and MATE - How To install MATE via NixOS and Windows 11 - WSL - Linux - 2025
 
 How to install MATE via NIXOS - WSL - TEXT
+
 https://github.com/vinberg88/nixos-mate-wsl/blob/main/NIXOS-MATE.txt
 
 How to install MATE via NIXOS - WSL - MOVIE
+
 Comming Zone...
 
 You can find NixOS here For WSL HERE - https://github.com/nix-community/NixOS-WSL
@@ -96,35 +98,6 @@ control, and seamless integration with Windows tools.
 https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
 
 <img width="1920" height="1080" alt="NIXOS-MATE" src="https://github.com/user-attachments/assets/7fcae83e-23a1-42a4-8102-c26068b17548" />
-
-About NixOS - https://nixos.org - LINUX - WSL
-
-Nix is a tool that takes a unique approach to package
-management and system configuration. Learn how to make
-reproducible, declarative and reliable systems. NixOS 
-is a unique Linux distribution that stands out due
-to its innovative approach to package management and
-system configuration. 
-
-Who should consider NixOS - NIXOS is not for all!
-
-Developers - The reproducible build environment and ease
-of managing development dependencies make NixOS an excellent
-choice for developers. System Administrators - The
-declarative configuration and robust upgrade model
-simplify system administration tasks and reduce 
-maintenance overhead. If you want to try Linux
-use other sort =)
-
-About MATE - https://mate-desktop.org - LINUX - WSL
-
-MATE Desktop is a lightweight and fast desktop environment
-that continues the GNOME 2 legacy. It offers a classic,
-intuitive, and feature-rich interface that is easy to use
-for both beginners and advanced users. With a focus on 
-stability, compatibility, and long-term support, MATE Desktop
-is a reliable choice for various use cases—from personal setups
-to professional environments.
 
 Find more stuff here for WSL and Windows 11.
 
