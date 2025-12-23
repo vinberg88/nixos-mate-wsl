@@ -1,7 +1,5 @@
 # NixOS Mate WSL
 
-![Main Banner](https://via.placeholder.com/728x90.png?text=Welcome+to+NixOS+Mate+on+WSL)
-
 ![Main Banner](https://github.com/user-attachments/assets/b61b00e3-1508-47ed-b87b-3c8c113314ac)
 
 
