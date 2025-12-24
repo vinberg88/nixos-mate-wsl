@@ -66,7 +66,7 @@ Developed and maintained by [vinberg88](https://github.com/vinberg88).
 
 How to install MATE via NIXOS - WSL - MOVIE
 
-Comming Zone...
+https://www.youtube.com/watch?v=qHSrHECCJDE
 
 Tools that i USE for WSL - Microsoft - Linux - Windows 11 - 2025
 
