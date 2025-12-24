@@ -13,6 +13,7 @@
   networking.hostName = "nixos-wsl-mate";
   time.timeZone = "Europe/Stockholm";
 
+  nixpkgs.config.allowUnfree = true;
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
 
   # Öka download buffer (default är för låg i WSL)
