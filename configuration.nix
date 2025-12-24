@@ -16,7 +16,7 @@
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
 
   # Öka download buffer (default är för låg i WSL)
-    nix.settings.download-buffer-size = 468435456; # 558 MB
+    nix.settings.download-buffer-size = 468435456; # 468 MB
 
   ############################################################
   # User
@@ -126,6 +126,7 @@
     pkgs.chromium
     pkgs.blanket
     pkgs.gnome-terminal
+    pkgs.vscode
     ];
 
   networking.networkmanager.enable = true;
